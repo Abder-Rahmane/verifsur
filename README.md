@@ -18,6 +18,11 @@
     <h2>💡 Development</h2>
     <p>Developed within five days, this project showcases the potential of integrating various technologies for enhanced security in identity verification.</p>
     <p>For further information or collaboration opportunities, please feel free to contact me.</p>
+
+
+https://github.com/Abder-Rahmane/verifsur/assets/90828091/1903ff65-87d9-4430-a315-2ff58e696e58
+
+
     <p>#Django #Python #AWS #OCR #FaceRecognition #Identity #Security #Innovation</p>
 </body>
 </html>
