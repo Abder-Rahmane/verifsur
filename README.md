@@ -22,7 +22,7 @@
 
 https://github.com/Abder-Rahmane/verifsur/assets/90828091/1903ff65-87d9-4430-a315-2ff58e696e58
 
+I know I made a mistake with the word idenity 😅
 
-    <p>#Django #Python #AWS #OCR #FaceRecognition #Identity #Security #Innovation</p>
 </body>
 </html>
